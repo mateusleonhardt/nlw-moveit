@@ -16,3 +16,5 @@ The idea for the application was presented at the 4th edition of Rocketseat's NL
 > Access the project folder using your preferred code editor;
 
 ## Images / GIF from the application
+> I used 6 seconds as countdown for demonstration only.
+<img src="https://github.com/mateusleonhardt/nlw-moveit/blob/main/public/readme/nlw-moveit.gif" alt="Move.it" />
